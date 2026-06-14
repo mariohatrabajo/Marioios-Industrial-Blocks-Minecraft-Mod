@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "marioios_industrial_blocks:block/cardboard_box_top",
+    "east": "marioios_industrial_blocks:block/cardboard_box_sides",
+    "north": "marioios_industrial_blocks:block/cardboard_box_front",
+    "particle": "marioios_industrial_blocks:block/cardboard_box_front",
+    "south": "marioios_industrial_blocks:block/cardboard_box_front",
+    "up": "marioios_industrial_blocks:block/cardboard_box_top",
+    "west": "marioios_industrial_blocks:block/cardboard_box_sides"
+  }
+}

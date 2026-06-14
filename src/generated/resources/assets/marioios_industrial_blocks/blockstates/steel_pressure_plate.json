@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "marioios_industrial_blocks:block/steel_pressure_plate"
+    },
+    "powered=true": {
+      "model": "marioios_industrial_blocks:block/steel_pressure_plate_down"
+    }
+  }
+}

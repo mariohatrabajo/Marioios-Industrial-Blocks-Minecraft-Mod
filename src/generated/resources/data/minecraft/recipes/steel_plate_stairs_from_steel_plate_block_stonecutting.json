@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "marioios_industrial_blocks:steel_plate_block"
+  },
+  "result": "marioios_industrial_blocks:steel_plate_stairs"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "d": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "g": {
+      "item": "minecraft:glass"
+    }
+  },
+  "pattern": [
+    " g ",
+    "gdg",
+    " c "
+  ],
+  "result": {
+    "count": 4,
+    "item": "marioios_industrial_blocks:lightbulb"
+  },
+  "show_notification": true
+}

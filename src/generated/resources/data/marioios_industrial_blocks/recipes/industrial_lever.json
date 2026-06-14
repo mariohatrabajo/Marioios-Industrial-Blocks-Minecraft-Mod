@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "l": {
+      "item": "minecraft:lever"
+    }
+  },
+  "pattern": [
+    "c  ",
+    "l  ",
+    "   "
+  ],
+  "result": {
+    "item": "marioios_industrial_blocks:industrial_lever"
+  },
+  "show_notification": true
+}

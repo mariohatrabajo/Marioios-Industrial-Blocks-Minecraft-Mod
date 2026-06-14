@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "cross": "marioios_industrial_blocks:block/nixie_tube_2_on"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "   ",
+    "ici",
+    "iii"
+  ],
+  "result": {
+    "count": 2,
+    "item": "marioios_industrial_blocks:steel_trapdoor"
+  },
+  "show_notification": true
+}

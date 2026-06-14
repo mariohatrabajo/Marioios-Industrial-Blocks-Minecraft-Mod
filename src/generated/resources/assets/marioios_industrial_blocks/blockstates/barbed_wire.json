@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "marioios_industrial_blocks:block/barbed_wire",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "marioios_industrial_blocks:block/barbed_wire"
+    },
+    "facing=south": {
+      "model": "marioios_industrial_blocks:block/barbed_wire",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "marioios_industrial_blocks:block/barbed_wire",
+      "y": 270
+    }
+  }
+}

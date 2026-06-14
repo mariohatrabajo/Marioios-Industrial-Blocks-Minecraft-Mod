@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "marioios_industrial_blocks:block/steel_block"
+  }
+}

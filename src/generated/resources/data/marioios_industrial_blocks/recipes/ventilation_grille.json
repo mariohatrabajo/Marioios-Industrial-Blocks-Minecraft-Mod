@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "i": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "   ",
+    "iii",
+    "iii"
+  ],
+  "result": {
+    "count": 2,
+    "item": "marioios_industrial_blocks:ventilation_grille"
+  },
+  "show_notification": true
+}

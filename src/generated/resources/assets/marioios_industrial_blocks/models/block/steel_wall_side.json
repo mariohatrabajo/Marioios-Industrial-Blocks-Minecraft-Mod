@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_side",
+  "textures": {
+    "wall": "marioios_industrial_blocks:block/steel_block"
+  }
+}

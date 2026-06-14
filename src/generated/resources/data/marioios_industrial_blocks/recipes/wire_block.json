@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "w": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "pattern": [
+    "w w",
+    "wcw",
+    "w w"
+  ],
+  "result": {
+    "count": 6,
+    "item": "marioios_industrial_blocks:wire_block"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "marioios_industrial_blocks:steel_plate_block"
+    }
+  ],
+  "result": {
+    "item": "marioios_industrial_blocks:steel_plate_button"
+  }
+}

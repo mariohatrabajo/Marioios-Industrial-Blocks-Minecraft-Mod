@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "b": {
+      "item": "minecraft:black_concrete"
+    },
+    "y": {
+      "item": "minecraft:yellow_concrete"
+    }
+  },
+  "pattern": [
+    "by ",
+    "yb ",
+    "   "
+  ],
+  "result": {
+    "count": 4,
+    "item": "marioios_industrial_blocks:danger_lines_block"
+  },
+  "show_notification": true
+}

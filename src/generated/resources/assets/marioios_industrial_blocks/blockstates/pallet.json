@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "marioios_industrial_blocks:block/pallet"
+    },
+    "type=double": {
+      "model": "marioios_industrial_blocks:block/pallet_double"
+    },
+    "type=top": {
+      "model": "marioios_industrial_blocks:block/pallet_top"
+    }
+  }
+}

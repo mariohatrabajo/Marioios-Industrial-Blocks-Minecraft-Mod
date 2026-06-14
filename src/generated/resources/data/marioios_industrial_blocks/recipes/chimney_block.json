@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "c": {
+      "item": "minecraft:coal"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "i i",
+    "ici",
+    "i i"
+  ],
+  "result": {
+    "item": "marioios_industrial_blocks:chimney_block"
+  },
+  "show_notification": true
+}

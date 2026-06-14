@@ -1,0 +1,6 @@
+{
+  "parent": "marioios_industrial_blocks:block/big_red_button_parent",
+  "textures": {
+    "bottom": "marioios_industrial_blocks:block/big_danger_button_bottom"
+  }
+}

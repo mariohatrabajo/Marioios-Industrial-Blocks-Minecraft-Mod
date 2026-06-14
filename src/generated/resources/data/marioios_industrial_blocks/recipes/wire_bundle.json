@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "w": {
+      "item": "marioios_industrial_blocks:wire_block"
+    }
+  },
+  "pattern": [
+    "ww ",
+    "ww ",
+    "   "
+  ],
+  "result": {
+    "count": 4,
+    "item": "marioios_industrial_blocks:wire_bundle"
+  },
+  "show_notification": true
+}

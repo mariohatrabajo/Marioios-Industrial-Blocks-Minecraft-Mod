@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "c": {
+      "item": "minecraft:crimson_planks"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "cc ",
+    "gg ",
+    "cc "
+  ],
+  "result": {
+    "count": 3,
+    "item": "marioios_industrial_blocks:crimson_exit_door"
+  },
+  "show_notification": true
+}

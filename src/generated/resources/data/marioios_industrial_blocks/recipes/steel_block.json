@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "n": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "nin",
+    "iii",
+    "nin"
+  ],
+  "result": {
+    "item": "marioios_industrial_blocks:steel_block"
+  },
+  "show_notification": true
+}

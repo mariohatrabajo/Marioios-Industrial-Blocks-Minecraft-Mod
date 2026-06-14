@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "marioios_industrial_blocks:block/steel_block"
+  }
+}

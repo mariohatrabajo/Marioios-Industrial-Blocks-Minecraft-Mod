@@ -1,0 +1,38 @@
+{
+  "big_red_button_use" : {
+    "subtitles": "sounds.marioios_industrial_blocks.big_red_button_use",
+    "sounds": [
+      "marioios_industrial_blocks:big_red_button_use"
+    ]
+  },
+  "monitor_on" : {
+    "subtitles": "sounds.marioios_industrial_blocks.monitor_on",
+    "sounds": [
+      "marioios_industrial_blocks:monitor_on"
+    ]
+  },
+  "industrial_lever_use" : {
+    "subtitles": "sounds.marioios_industrial_blocks.industrial_lever_use",
+    "sounds": [
+      "marioios_industrial_blocks:industrial_lever_use"
+    ]
+  },
+  "crank_use" : {
+    "subtitles": "sounds.marioios_industrial_blocks.crank_use",
+    "sounds": [
+      "marioios_industrial_blocks:crank_use"
+    ]
+  },
+  "cardboard_box_open" : {
+    "subtitles": "sounds.marioios_industrial_blocks.cardboard_box_open",
+    "sounds": [
+      "marioios_industrial_blocks:cardboard_box_open"
+    ]
+  },
+  "cardboard_box_close" : {
+    "subtitles": "sounds.marioios_industrial_blocks.cardboard_box_close",
+    "sounds": [
+      "marioios_industrial_blocks:cardboard_box_close"
+    ]
+  }
+}

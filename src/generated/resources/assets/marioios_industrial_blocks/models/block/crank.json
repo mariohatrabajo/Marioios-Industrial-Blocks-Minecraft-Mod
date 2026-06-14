@@ -1,0 +1,7 @@
+{
+  "parent": "marioios_industrial_blocks:block/crank_parent",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "top": "marioios_industrial_blocks:block/crank"
+  }
+}

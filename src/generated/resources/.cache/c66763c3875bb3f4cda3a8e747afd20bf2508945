@@ -1,0 +1,9 @@
+// 1.20.1	2026-04-18T20:32:08.2310181	Tags for minecraft:block mod id marioios_industrial_blocks
+631755d4c7a5dc38bedea286080e626e50c8f5f1 data/minecraft/tags/blocks/fences.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/fence_gates.json
+3939f55a8e040f212d36275718073559505e0289 data/minecraft/tags/blocks/mineable/axe.json
+d3966b6095fa912362b5aa8e81e885724459c743 data/minecraft/tags/blocks/mineable/hoe.json
+d92841b89327a4a42967f651fbff0fec6d4761eb data/minecraft/tags/blocks/mineable/pickaxe.json
+35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_iron_tool.json
+47606ce2b22af8a90f7c913c8aef86037cfb0cd5 data/minecraft/tags/blocks/needs_stone_tool.json
+2c741477d4f475aad33abce0f3ac174aeb19b79f data/minecraft/tags/blocks/walls.json

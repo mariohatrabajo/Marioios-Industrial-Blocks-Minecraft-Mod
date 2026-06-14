@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "marioios_industrial_blocks:block/monitor_block_bottom",
+    "east": "marioios_industrial_blocks:block/monitor_block_east",
+    "north": "marioios_industrial_blocks:block/monitor_block_front",
+    "particle": "marioios_industrial_blocks:block/monitor_block_back",
+    "south": "marioios_industrial_blocks:block/monitor_block_back",
+    "up": "marioios_industrial_blocks:block/monitor_block_top",
+    "west": "marioios_industrial_blocks:block/monitor_block_west"
+  }
+}

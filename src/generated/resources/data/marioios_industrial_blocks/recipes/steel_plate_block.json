@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "i": {
+      "item": "marioios_industrial_blocks:steel_block"
+    }
+  },
+  "pattern": [
+    "ii ",
+    "ii ",
+    "   "
+  ],
+  "result": {
+    "count": 4,
+    "item": "marioios_industrial_blocks:steel_plate_block"
+  },
+  "show_notification": true
+}

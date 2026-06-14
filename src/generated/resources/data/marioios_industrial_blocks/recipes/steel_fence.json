@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "s": {
+      "item": "marioios_industrial_blocks:steel_block"
+    }
+  },
+  "pattern": [
+    "   ",
+    "sis",
+    "sis"
+  ],
+  "result": {
+    "count": 6,
+    "item": "marioios_industrial_blocks:steel_fence"
+  },
+  "show_notification": true
+}

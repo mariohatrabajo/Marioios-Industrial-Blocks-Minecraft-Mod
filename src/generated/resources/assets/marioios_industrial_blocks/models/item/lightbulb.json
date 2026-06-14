@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "marioios_industrial_blocks:item/lightbulb"
+  }
+}

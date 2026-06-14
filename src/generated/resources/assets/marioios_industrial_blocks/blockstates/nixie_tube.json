@@ -1,0 +1,1064 @@
+{
+  "variants": {
+    "face=ceiling,facing=east,lit=false,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_ceiling",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=false,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_ceiling",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=false,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_ceiling",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=false,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_ceiling",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=false,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_ceiling",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=false,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_ceiling",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=false,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_ceiling",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=false,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_ceiling",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=false,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_ceiling",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=false,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_ceiling",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=true,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_ceiling_on",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=true,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_ceiling_on",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=true,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_ceiling_on",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=true,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_ceiling_on",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=true,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_ceiling_on",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=true,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_ceiling_on",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=true,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_ceiling_on",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=true,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_ceiling_on",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=true,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_ceiling_on",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=east,lit=true,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_ceiling_on",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=north,lit=false,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_ceiling",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=false,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_ceiling",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=false,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_ceiling",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=false,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_ceiling",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=false,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_ceiling",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=false,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_ceiling",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=false,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_ceiling",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=false,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_ceiling",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=false,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_ceiling",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=false,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_ceiling",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=true,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_ceiling_on",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=true,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_ceiling_on",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=true,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_ceiling_on",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=true,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_ceiling_on",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=true,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_ceiling_on",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=true,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_ceiling_on",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=true,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_ceiling_on",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=true,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_ceiling_on",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=true,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_ceiling_on",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=north,lit=true,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_ceiling_on",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=south,lit=false,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_ceiling",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=false,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_ceiling",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=false,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_ceiling",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=false,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_ceiling",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=false,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_ceiling",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=false,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_ceiling",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=false,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_ceiling",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=false,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_ceiling",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=false,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_ceiling",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=false,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_ceiling",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=true,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_ceiling_on",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=true,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_ceiling_on",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=true,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_ceiling_on",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=true,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_ceiling_on",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=true,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_ceiling_on",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=true,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_ceiling_on",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=true,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_ceiling_on",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=true,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_ceiling_on",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=true,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_ceiling_on",
+      "x": 180
+    },
+    "face=ceiling,facing=south,lit=true,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_ceiling_on",
+      "x": 180
+    },
+    "face=ceiling,facing=west,lit=false,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_ceiling",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=false,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_ceiling",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=false,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_ceiling",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=false,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_ceiling",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=false,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_ceiling",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=false,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_ceiling",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=false,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_ceiling",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=false,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_ceiling",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=false,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_ceiling",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=false,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_ceiling",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=true,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_ceiling_on",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=true,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_ceiling_on",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=true,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_ceiling_on",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=true,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_ceiling_on",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=true,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_ceiling_on",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=true,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_ceiling_on",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=true,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_ceiling_on",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=true,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_ceiling_on",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=true,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_ceiling_on",
+      "x": 180,
+      "y": 90
+    },
+    "face=ceiling,facing=west,lit=true,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_ceiling_on",
+      "x": 180,
+      "y": 90
+    },
+    "face=floor,facing=east,lit=false,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_floor",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=false,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_floor",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=false,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_floor",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=false,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_floor",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=false,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_floor",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=false,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_floor",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=false,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_floor",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=false,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_floor",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=false,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_floor",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=false,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_floor",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=true,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_floor_on",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=true,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_floor_on",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=true,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_floor_on",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=true,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_floor_on",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=true,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_floor_on",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=true,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_floor_on",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=true,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_floor_on",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=true,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_floor_on",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=true,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_floor_on",
+      "y": 270
+    },
+    "face=floor,facing=east,lit=true,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_floor_on",
+      "y": 270
+    },
+    "face=floor,facing=north,lit=false,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_floor",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=false,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_floor",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=false,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_floor",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=false,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_floor",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=false,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_floor",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=false,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_floor",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=false,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_floor",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=false,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_floor",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=false,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_floor",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=false,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_floor",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=true,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_floor_on",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=true,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_floor_on",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=true,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_floor_on",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=true,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_floor_on",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=true,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_floor_on",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=true,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_floor_on",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=true,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_floor_on",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=true,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_floor_on",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=true,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_floor_on",
+      "y": 180
+    },
+    "face=floor,facing=north,lit=true,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_floor_on",
+      "y": 180
+    },
+    "face=floor,facing=south,lit=false,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_floor"
+    },
+    "face=floor,facing=south,lit=false,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_floor"
+    },
+    "face=floor,facing=south,lit=false,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_floor"
+    },
+    "face=floor,facing=south,lit=false,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_floor"
+    },
+    "face=floor,facing=south,lit=false,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_floor"
+    },
+    "face=floor,facing=south,lit=false,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_floor"
+    },
+    "face=floor,facing=south,lit=false,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_floor"
+    },
+    "face=floor,facing=south,lit=false,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_floor"
+    },
+    "face=floor,facing=south,lit=false,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_floor"
+    },
+    "face=floor,facing=south,lit=false,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_floor"
+    },
+    "face=floor,facing=south,lit=true,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_floor_on"
+    },
+    "face=floor,facing=south,lit=true,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_floor_on"
+    },
+    "face=floor,facing=south,lit=true,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_floor_on"
+    },
+    "face=floor,facing=south,lit=true,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_floor_on"
+    },
+    "face=floor,facing=south,lit=true,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_floor_on"
+    },
+    "face=floor,facing=south,lit=true,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_floor_on"
+    },
+    "face=floor,facing=south,lit=true,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_floor_on"
+    },
+    "face=floor,facing=south,lit=true,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_floor_on"
+    },
+    "face=floor,facing=south,lit=true,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_floor_on"
+    },
+    "face=floor,facing=south,lit=true,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_floor_on"
+    },
+    "face=floor,facing=west,lit=false,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_floor",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=false,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_floor",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=false,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_floor",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=false,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_floor",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=false,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_floor",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=false,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_floor",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=false,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_floor",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=false,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_floor",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=false,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_floor",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=false,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_floor",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=true,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_floor_on",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=true,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_floor_on",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=true,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_floor_on",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=true,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_floor_on",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=true,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_floor_on",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=true,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_floor_on",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=true,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_floor_on",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=true,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_floor_on",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=true,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_floor_on",
+      "y": 90
+    },
+    "face=floor,facing=west,lit=true,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_floor_on",
+      "y": 90
+    },
+    "face=wall,facing=east,lit=false,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_wall",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=false,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_wall",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=false,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_wall",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=false,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_wall",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=false,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_wall",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=false,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_wall",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=false,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_wall",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=false,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_wall",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=false,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_wall",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=false,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_wall",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=true,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_wall_on",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=true,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_wall_on",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=true,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_wall_on",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=true,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_wall_on",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=true,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_wall_on",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=true,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_wall_on",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=true,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_wall_on",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=true,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_wall_on",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=true,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_wall_on",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=east,lit=true,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_wall_on",
+      "x": -90,
+      "y": 270
+    },
+    "face=wall,facing=north,lit=false,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_wall",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=false,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_wall",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=false,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_wall",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=false,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_wall",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=false,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_wall",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=false,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_wall",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=false,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_wall",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=false,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_wall",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=false,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_wall",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=false,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_wall",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=true,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_wall_on",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=true,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_wall_on",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=true,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_wall_on",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=true,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_wall_on",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=true,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_wall_on",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=true,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_wall_on",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=true,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_wall_on",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=true,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_wall_on",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=true,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_wall_on",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=north,lit=true,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_wall_on",
+      "x": -90,
+      "y": 180
+    },
+    "face=wall,facing=south,lit=false,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_wall",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=false,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_wall",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=false,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_wall",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=false,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_wall",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=false,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_wall",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=false,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_wall",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=false,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_wall",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=false,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_wall",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=false,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_wall",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=false,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_wall",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=true,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_wall_on",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=true,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_wall_on",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=true,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_wall_on",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=true,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_wall_on",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=true,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_wall_on",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=true,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_wall_on",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=true,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_wall_on",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=true,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_wall_on",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=true,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_wall_on",
+      "x": -90
+    },
+    "face=wall,facing=south,lit=true,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_wall_on",
+      "x": -90
+    },
+    "face=wall,facing=west,lit=false,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_wall",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=false,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_wall",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=false,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_wall",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=false,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_wall",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=false,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_wall",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=false,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_wall",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=false,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_wall",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=false,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_wall",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=false,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_wall",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=false,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_wall",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=true,number=0": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_0_wall_on",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=true,number=1": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_1_wall_on",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=true,number=2": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_2_wall_on",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=true,number=3": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_3_wall_on",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=true,number=4": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_4_wall_on",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=true,number=5": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_5_wall_on",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=true,number=6": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_6_wall_on",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=true,number=7": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_7_wall_on",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=true,number=8": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_8_wall_on",
+      "x": -90,
+      "y": 90
+    },
+    "face=wall,facing=west,lit=true,number=9": {
+      "model": "marioios_industrial_blocks:block/nixie_tube_9_wall_on",
+      "x": -90,
+      "y": 90
+    }
+  }
+}

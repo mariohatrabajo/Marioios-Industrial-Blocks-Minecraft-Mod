@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "s": {
+      "item": "marioios_industrial_blocks:steel_block"
+    }
+  },
+  "pattern": [
+    "   ",
+    "   ",
+    " ss"
+  ],
+  "result": {
+    "item": "marioios_industrial_blocks:steel_pressure_plate"
+  },
+  "show_notification": true
+}

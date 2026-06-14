@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_side",
+  "textures": {
+    "edge": "marioios_industrial_blocks:block/chain_wire_fence",
+    "pane": "marioios_industrial_blocks:block/chain_wire_fence"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "g": {
+      "item": "minecraft:glass_pane"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "w": {
+      "tag": "marioios_industrial_blocks:wire_blocks"
+    }
+  },
+  "pattern": [
+    "iii",
+    "iwi",
+    "igi"
+  ],
+  "result": {
+    "item": "marioios_industrial_blocks:monitor_block"
+  },
+  "show_notification": true
+}

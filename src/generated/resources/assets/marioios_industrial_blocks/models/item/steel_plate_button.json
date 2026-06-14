@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "marioios_industrial_blocks:block/steel_plate_block"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "d": {
+      "item": "marioios_industrial_blocks:danger_lines_block"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "id ",
+    "id ",
+    "id "
+  ],
+  "result": {
+    "count": 3,
+    "item": "marioios_industrial_blocks:steel_door"
+  },
+  "show_notification": true
+}

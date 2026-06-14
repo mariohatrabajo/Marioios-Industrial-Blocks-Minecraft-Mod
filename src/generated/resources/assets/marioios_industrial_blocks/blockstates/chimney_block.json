@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "marioios_industrial_blocks:block/chimney_block"
+    }
+  }
+}

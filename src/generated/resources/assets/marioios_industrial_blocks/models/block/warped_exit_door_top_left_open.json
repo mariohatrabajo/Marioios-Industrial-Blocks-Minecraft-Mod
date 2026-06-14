@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_top_left_open",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bottom": "marioios_industrial_blocks:block/warped_exit_door_bottom",
+    "top": "marioios_industrial_blocks:block/warped_exit_door_top"
+  }
+}

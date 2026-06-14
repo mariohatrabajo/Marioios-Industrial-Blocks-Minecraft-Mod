@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/pressure_plate_down",
+  "textures": {
+    "texture": "marioios_industrial_blocks:block/steel_block"
+  }
+}

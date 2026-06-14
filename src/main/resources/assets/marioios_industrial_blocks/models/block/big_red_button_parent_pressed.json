@@ -1,0 +1,38 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"ambientocclusion": true,
+	"textures": {
+		"bottom": "marioios_industrial_blocks:block/big_red_button_bottom",
+		"1": "minecraft:block/redstone_block",
+		"particle": "minecraft:block/redstone_block"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 1, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 0, 2]},
+			"faces": {
+				"north": {"uv": [1, 6, 9, 7], "texture": "#bottom"},
+				"east": {"uv": [3, 6, 11, 7], "texture": "#bottom"},
+				"south": {"uv": [3, 10, 11, 11], "texture": "#bottom"},
+				"west": {"uv": [7, 5, 15, 6], "texture": "#bottom"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#bottom"},
+				"down": {"uv": [7, 7, 15, 15], "texture": "#bottom"}
+			}
+		},
+		{
+			"from": [5, 1, 5],
+			"to": [11, 2, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 4]},
+			"faces": {
+				"north": {"uv": [1, 5, 7, 6], "texture": "#1"},
+				"east": {"uv": [1, 1, 7, 2], "texture": "#1"},
+				"south": {"uv": [10, 1, 16, 2], "texture": "#1"},
+				"west": {"uv": [7, 6, 13, 7], "texture": "#1"},
+				"up": {"uv": [9, 7, 15, 13], "texture": "#1"},
+				"down": {"uv": [4, 4, 10, 10], "texture": "#1"}
+			}
+		}
+	]
+}

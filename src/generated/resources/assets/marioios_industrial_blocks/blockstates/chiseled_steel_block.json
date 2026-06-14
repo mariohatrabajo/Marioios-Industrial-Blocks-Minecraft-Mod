@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "marioios_industrial_blocks:block/chiseled_steel_block",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "marioios_industrial_blocks:block/chiseled_steel_block",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "marioios_industrial_blocks:block/chiseled_steel_block"
+    },
+    "facing=west": {
+      "model": "marioios_industrial_blocks:block/chiseled_steel_block",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "marioios_industrial_blocks:steel_door",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ],
+          "name": "marioios_industrial_blocks:steel_door"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "marioios_industrial_blocks:blocks/steel_door"
+}

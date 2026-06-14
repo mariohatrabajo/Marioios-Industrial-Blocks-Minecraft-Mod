@@ -1,0 +1,14 @@
+{
+  "values": [
+    "marioios_industrial_blocks:monitor_block",
+    "marioios_industrial_blocks:monitor_block_eye",
+    "marioios_industrial_blocks:monitor_block_bluescreen",
+    "marioios_industrial_blocks:monitor_block_nosignal",
+    "marioios_industrial_blocks:monitor_block_mojang",
+    "marioios_industrial_blocks:monitor_block_command",
+    "marioios_industrial_blocks:monitor_block_sound",
+    "marioios_industrial_blocks:monitor_block_matrix",
+    "marioios_industrial_blocks:monitor_block_desktop",
+    "marioios_industrial_blocks:monitor_block_target"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "d": {
+      "item": "marioios_industrial_blocks:danger_lines_block"
+    },
+    "r": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "pattern": [
+    "r  ",
+    "d  ",
+    "   "
+  ],
+  "result": {
+    "count": 2,
+    "item": "marioios_industrial_blocks:big_danger_button"
+  },
+  "show_notification": true
+}

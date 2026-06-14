@@ -1,0 +1,26 @@
+{
+  "values": [
+    "marioios_industrial_blocks:steel_block",
+    "marioios_industrial_blocks:steel_plate_block",
+    "marioios_industrial_blocks:steel_stairs",
+    "marioios_industrial_blocks:steel_slab",
+    "marioios_industrial_blocks:steel_wall",
+    "marioios_industrial_blocks:steel_fence",
+    "marioios_industrial_blocks:steel_button",
+    "marioios_industrial_blocks:steel_pressure_plate",
+    "marioios_industrial_blocks:steel_plate_stairs",
+    "marioios_industrial_blocks:steel_plate_slab",
+    "marioios_industrial_blocks:steel_plate_wall",
+    "marioios_industrial_blocks:steel_plate_fence",
+    "marioios_industrial_blocks:steel_plate_button",
+    "marioios_industrial_blocks:steel_plate_pressure_plate",
+    "marioios_industrial_blocks:chiseled_steel_block",
+    "marioios_industrial_blocks:steel_pillar",
+    "marioios_industrial_blocks:chain_wire_fence",
+    "marioios_industrial_blocks:barbed_wire",
+    "marioios_industrial_blocks:chimney_block",
+    "marioios_industrial_blocks:steel_door",
+    "marioios_industrial_blocks:steel_trapdoor",
+    "marioios_industrial_blocks:ventilation_grille"
+  ]
+}

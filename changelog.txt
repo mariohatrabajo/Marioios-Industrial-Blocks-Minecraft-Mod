@@ -1,0 +1,55 @@
+0.1: Industrial Revolution.
+    Created Project.
+    Added Nixie Tube, Redstone Nixie Tube and Numbered Nixie Tube
+    Added Steel Block and its stairs, slab, wall, fence, button, pressure plate, door and trapdoor.
+    Added Steel Plate Block and its stairs, slab, wall, fence, button and pressure plate.
+    Added Danger Lines Block.
+    Added Chiseled Steel Block.
+    Added Chain Wire Fence.
+    Added Barbed Wire.
+    Added Chimney and Small Chimney.
+    Added Monitor Block and its variants: Eye, Blue Screen, No Signal, Mojang, Command, Sound, Matrix, Desktop and Target.
+    Added Big Red Button and Big Danger Button.
+    Added Industrial Lever.
+    Added Crank.
+    Added Crimson and Warped Exit doors.
+    Added Pallet.
+    Changed Nixie Tube and Redstone Nixie Tube to Lightbulb and Redstone Lightbulb respectivelly. Numbered Nixie Tube renamed to Nixie Tube.
+    Added Cardboard Box.
+    Added Ventilation Grille.
+
+TODO:
+    Caja de carton:
+        Textura diferente mientras esta abierto
+    Steel Trapdoor:
+        Better model.
+        Does crank noise when opened
+    Wire Block Particles
+    Conveyor Belts (Slabs)
+    Brazo Mecánico?
+    Cintas azules
+    container
+    Puertas de Container
+    Trampilla de conducto de ventilacion
+    Bloque y trampilla de ventilador
+    Luces Fluorescentes
+    Placa Base
+    Paneles de oficina
+    Cartel de Suelo mojado
+    Puerta y trapdoor estilo puerta de garaje
+    Puerta de caja fuerte
+    Taquilla con inventario
+    Escaleras de estas que son una barra de hierro doblada, que se usa en obras
+    Caja de plastico en la que guardan las cocacolas para transportarlas, puedes meter pociones dentro
+
+TODO: 0.2
+    Lingotes (hierro+carbon), Bloques, escaleras, slabs, vigas... de hierro antiguo (negro)
+    Monitores negros (hechos con el hierro antiguo)
+    Server with blinking lights
+    Copper Pipes
+    Copper Pipe that shoots vapor
+    Canaleta que lleva liquido?
+
+TODO:
+    Pulido:
+    Ajustar volumenes de los sonidos

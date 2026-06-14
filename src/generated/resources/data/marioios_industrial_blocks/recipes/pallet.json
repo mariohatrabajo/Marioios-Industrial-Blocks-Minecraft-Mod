@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "w": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "pattern": [
+    "www",
+    "w w",
+    "   "
+  ],
+  "result": {
+    "count": 5,
+    "item": "marioios_industrial_blocks:pallet"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "g": {
+      "item": "minecraft:glass"
+    },
+    "r": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    " g ",
+    "grg",
+    " c "
+  ],
+  "result": {
+    "count": 4,
+    "item": "marioios_industrial_blocks:redstone_lightbulb"
+  },
+  "show_notification": true
+}
